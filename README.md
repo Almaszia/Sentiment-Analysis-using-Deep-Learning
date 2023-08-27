@@ -10,7 +10,7 @@ ABOUT MODEL:
 This model is built by using Keras, pre-trained GloVe word embeddings and LSTM for sentiment analysis of IMBD movie reviews data set.
 
 
-Model Artitecture 
+MODEL ARCHITECTURE:
 LSTM model is built with these layers
 Embedding Layer:
 
